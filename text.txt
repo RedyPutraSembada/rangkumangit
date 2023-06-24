@@ -1,1 +1,2 @@
-1. pertama untuk membuat repository kita harus meng init alamat folder yang akan di jadikan repository
+1. pertama untuk membuat repository kita harus meng init alamat folder yang akan di jadikan repository.
+2. untuk fungsi git config ada beberapa fungsi yaitu untuk konfigurasi username dan email, bisanya di samakan dengan akun gitlab atau github, bisa di gunakan untuk config lokal maupun global.
