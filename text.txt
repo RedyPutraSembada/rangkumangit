@@ -1,2 +1,3 @@
 1. pertama untuk membuat repository kita harus meng init alamat folder yang akan di jadikan repository.
 2. untuk fungsi git config ada beberapa fungsi yaitu untuk konfigurasi username dan email, bisanya di samakan dengan akun gitlab atau github, bisa di gunakan untuk config lokal maupun global.
+3. reposotory bisa di buat di lokal maupun global, untuk di bagian global reposotory pertamakali harus di clone terlebih dahhulu lalu baru bisa menggunakan perintah-perintah yang tersedia di it global seperti, push untuk mengupload dan pull untuk mengambil.
