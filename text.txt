@@ -2,3 +2,4 @@
 2. untuk fungsi git config ada beberapa fungsi yaitu untuk konfigurasi username dan email, bisanya di samakan dengan akun gitlab atau github, bisa di gunakan untuk config lokal maupun global.
 3. reposotory bisa di buat di lokal maupun global, untuk di bagian global reposotory pertamakali harus di clone terlebih dahhulu lalu baru bisa menggunakan perintah-perintah yang tersedia di it global seperti, push untuk mengupload dan pull untuk mengambil.
 4. branch sendiri di gunakan untuk menampung berapa bagian pekerjaan dalam beberapa tempat, contoh seperti di bagian branch A mengerjakan sistem login, sedangkan branch B menegerjakan sistem Resgistrasi, dimana untuk menyatukan kedua branch tersebut dengan merge anatara kedua branch tersebut.
+5. penggunaan sourcetree digunakan untuk menganalisa repository bisa di sebut gui dari segala fungsi git, dimana di aplikasi ini kita bisa menjalankan semua perintah git dengan hanya sebuah button.
